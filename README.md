@@ -6,3 +6,8 @@
 ### <samp>Skills </samp> 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
  <img src ="https://img.shields.io/badge/tensorflow-%2314355D.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+```text
+Python   22 hrs 4 mins       ███████████████████▓░░░░░   78.44 %
+TensorFlow   2 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   22.66 %
+'''
