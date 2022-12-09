@@ -5,4 +5,4 @@
 
 ### <samp>Skills </samp> 
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src ="https://img.shields.io/badge/machinelearning-%233152C7.svg?&style=for-the-badge&logo=opencv&logoColor=white"/> <img src ="https://img.shields.io/badge/tensorflow-%2314355D.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
+ <img src ="https://img.shields.io/badge/tensorflow-%2314355D.svg?&style=for-the-badge&logo=tensorflow&logoColor=white"/>
