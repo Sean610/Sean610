@@ -1,4 +1,4 @@
-### Hi there 👋
+### Sean Ohiomokhare 👋
 
 <!--
 **Sean610/Sean610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
